@@ -2,7 +2,7 @@
 This repository contains all the scripts I have used to obtain the results exposed in my final project of Physics.
 The main programs are: 
   * Ising-MC_simulation.py
-  * Ising-nnn-MC-simulation.py
+  * Ising-nnn-MC_simulation.py
   * Neural-network.py
   
 I used the first one to obtain the final states for a different temperatures in 20x20 Ising system through Metropolis-Hastings algorithm.
