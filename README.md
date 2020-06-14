@@ -1,4 +1,4 @@
-# MLPhasesMatter
+# Machine Learning Phases of Matter
 This repository contains all the scripts I have used to obtain the results exposed in my final project of Physics.
 The main programs are: 
   * Ising-MC_simulation.py
