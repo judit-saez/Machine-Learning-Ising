@@ -5,7 +5,7 @@ The main programs are:
   * Ising-nnn-MC_simulation.py
   * Neural-network.py
   
-I used the first one to obtain the final states for a different temperatures in 20x20 Ising system through Metropolis-Hastings algorithm.
+I used the first one to obtain the equilibrium states for a different temperatures in 20x20 Ising system through Metropolis-Hastings algorithm.
 
 The second one uses the same algorithm but the system has next-to-nearest neighbor interactions instead of nearest neighbor.
 
